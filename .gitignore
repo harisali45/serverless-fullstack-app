@@ -15,7 +15,6 @@ node_modules
 dist
 .idea
 build/
-.env*
 .cache*
 .serverless
 .serverless_nextjs
